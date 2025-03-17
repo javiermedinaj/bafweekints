@@ -3,7 +3,7 @@ import AnimatedText from "../components/animated-text";
 export default function Home() {
   return (
     <main className=" bg-white">
-      <div className="container mx-auto px-4 md:px-8 pt-2 md:pt-2">
+      <div className="container mx-auto px-48md:px-8 pt-2 md:pt-2">
         <div className="flex flex-col md:flex-row items-start gap-2">
           <div className="w-full md:w-1/2 pt-2">
             <AnimatedText text="BUENOS" />

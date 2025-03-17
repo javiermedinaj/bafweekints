@@ -3,7 +3,7 @@ import Hero from "./components/Hero";
 import Section from "./components/Section";
 import Who from "./components/Who";
 import Designers from "./components/Designers";
-import DesignersInfo from "./components/DesignersInfo";
+//import DesignersInfo from "./components/DesignersInfo";
 import Notes from "./components/Notes";
 import Author_pop from "./components/Author_pop";
 import Partners from "./components/Partners";
@@ -18,7 +18,6 @@ function App() {
       <Section />
       <Who />
       <Designers />
-      <DesignersInfo />
       <Notes />
       <Author_pop />
       <Partners />
